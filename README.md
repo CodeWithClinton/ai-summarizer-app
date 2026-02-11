@@ -147,6 +147,11 @@ server {
     }
 }
 ```
+Grant nginx access to staticfiles:
+
+```bash
+sudo chmod 755 /var/www/myreactapp/assets
+```
 
 Enable it:
 
