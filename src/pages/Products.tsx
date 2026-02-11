@@ -60,7 +60,7 @@ export default function Products() {
         <main className="container py-8 md:py-12">
           <div className="mb-8 text-center">
             <h1 className="font-display text-3xl font-bold tracking-tight text-foreground md:text-4xl">
-              Our Collections
+              Our Collections - Curated for You
             </h1>
             <p className="mt-2 text-muted-foreground">
               Thoughtfully selected products for modern living
